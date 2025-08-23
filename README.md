@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building skills in Python, Java, C, and Machine Learning.<br>Exploring AI-powered applications, full-stack development, and data-driven projects.<br>Interested in collaborating on open-source projects, web development, AI/ML tools, and innovative software solutions.<br>Always eager to solve challenging problems and contribute to impactful projects.
+• Currently building skills in Python, Java, C, and Machine Learning.<br>• Exploring AI-powered applications, full-stack development, and data-driven projects.<br>• Interested in collaborating on open-source projects, web development, AI/ML tools, and innovative software solutions.<br>• Always eager to solve challenging problems and contribute to impactful projects.
 
 
 ## 🌐 Socials:
