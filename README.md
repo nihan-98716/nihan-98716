@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AIML porjects<br>I'm learning Machine learning models and java side by side<br>I'm open to collaboration with web dev and aiml projects<br>Caffeine fuelled programmer, exploring and learning new things.
+Currently building skills in Python, Java, C, and Machine Learning.<br>Exploring AI-powered applications, full-stack development, and data-driven projects.<br>Interested in collaborating on open-source projects, web development, AI/ML tools, and innovative software solutions.<br>Always eager to solve challenging problems and contribute to impactful projects.
 
 
 ## 🌐 Socials:
