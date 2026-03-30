@@ -9,13 +9,26 @@
 
 ---
 
+```markdown
+---
+
 <p align="center">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=nihan&backgroundColor=0d1117&eyes=glow&mouth=smile" width="140"/>
+  <img src="https://avatars.githubusercontent.com/nihan-98716" width="140" style="border-radius:50%"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/nihan-98716" width="140" style="border-radius:50%"/>
 </p>
 
 ---
 
 ## 🧠 PROFILE
+
+```diff
++ Computer & Communications Engineering
++ System-Level Developer
++ Focus: Intelligent, Scalable, Real-World Systems
 
 ---
 
