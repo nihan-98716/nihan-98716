@@ -1,78 +1,88 @@
-<!-- ===================== CYBERPUNK HEADER ===================== -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=NIHAN;SYSTEMS+ENGINEER;AI+%7C+IOT+%7C+FULLSTACK" />
-</p>
+<h1 align="center">Hey, I'm Nihan 👋</h1>
+<h3 align="center">Engineering Student • Builder • IEEE Volunteer • Problem Solver</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00F7FF,100:FF00FF&animation=fadeIn"/>
-</p>
-
----
-
-```markdown
----
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/nihan-98716" width="140" style="border-radius:50%"/>
-</p>
-
----
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/nihan-98716" width="140" style="border-radius:50%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+impactful+tech;Exploring+AI+%26+Systems;Creating+real-world+solutions" />
 </p>
 
 ---
 
-## 🧠 PROFILE
+## 🚀 About Me
 
-```diff
-+ Computer & Communications Engineering
-+ System-Level Developer
-+ Focus: Intelligent, Scalable, Real-World Systems
+- 🎓 Computer & Communications Engineering student  
+- ⚡ IEEE Volunteer & **Webmaster @ IEEE SB Amrita Chennai**  
+- ✍️ Content Development @ YESIST12 (IEngage Track)  
+- 🧠 Interested in **AI, Systems, IoT, and Real-World Engineering Problems**  
+- 🔬 Currently working on:
+  - DNA Sequence Pattern Mining (ML)
+  - ESP32-based Intrusion Detection System
+  - Data Science with NASA datasets  
 
 ---
 
-## ⚡ DOMAINS
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-FF3B3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-FFD600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-FF00FF?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,nodejs,git,github,mysql,linux,vscode,arduino&perline=8" />
+
 </p>
 
 ---
 
-## 🚀 TECH STACK
+## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,tailwind,nodejs,mysql,git,github,linux,arduino,vscode&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures-%2300C7B7.svg?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT%20Systems-%23FF0000.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </p>
 
 ---
 
-## 🧬 SYSTEM CAPABILITIES
+## 📊 GitHub Stats
 
-```yaml
-Architecture:
-  - Scalable systems
-  - Modular design
-  - Performance-first
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihan-98716&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-AI / ML:
-  - Pattern recognition
-  - Model workflows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-IoT:
-  - Microcontrollers
-  - Real-time processing
+---
 
-Full Stack:
-  - UI systems
-  - APIs
+## 🧩 Featured Work
 
-Data Science:
-  - Data pipelines
-  - Visualization
+- 🔐 **ESP32 Intrusion Detection System**  
+  Real-time packet sniffing + DFA-based threat detection + LCD dashboard  
+
+- 🧬 **DNA Pattern Mining using ML**  
+  Extracting meaningful patterns from biological sequences  
+
+- 🩸 **Decentralized Blood Bank System**  
+  Offline-first system for availability + tracking  
+
+- 🌐 **High-End Animated Web Experiences**  
+  Scroll-based, immersive, futuristic UI systems  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/nihan-98716"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “I don’t just build projects. I engineer systems that feel alive.”
+</p>
