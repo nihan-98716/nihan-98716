@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 90%, 100% { opacity: 1; }
+        95% { opacity: 0; }
+      }
+      @keyframes pulseCircle {
+        0%, 100% { r: 9px; opacity: 0.8; }
+        50% { r: 11px; opacity: 0.3; }
+      }
+      @keyframes corePulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes antennaGlow {
+        0%, 100% { fill: #00f7ff; }
+        50% { fill: #ff00ff; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-5px); }
+      }
+      @keyframes circuitPulse {
+        0%, 100% { stroke-opacity: 0.3; }
+        50% { stroke-opacity: 1; }
+      }
+      @keyframes ledBlink1 { 0%, 100% { opacity: 0.9; } 50% { opacity: 0.2; } }
+      @keyframes ledBlink2 { 0%, 100% { opacity: 0.7; } 50% { opacity: 0.2; } }
+      @keyframes ledBlink3 { 0%, 100% { opacity: 0.8; } 50% { opacity: 0.1; } }
+      @keyframes ledBlink4 { 0%, 100% { opacity: 0.7; } 50% { opacity: 0.3; } }
+      @keyframes textBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+      .robot-group { animation: float 3s ease-in-out infinite; }
+      .eye { animation: blink 4s ease-in-out infinite; }
+      .antenna-tip { animation: antennaGlow 1.5s ease-in-out infinite; }
+      .c1 { animation: circuitPulse 2s ease-in-out infinite; }
+      .c2 { animation: circuitPulse 2s ease-in-out infinite 0.5s; }
+      .c3 { animation: circuitPulse 2s ease-in-out infinite 1s; }
+      .led1 { animation: ledBlink1 1s ease-in-out infinite; }
+      .led2 { animation: ledBlink2 1.3s ease-in-out infinite; }
+      .led3 { animation: ledBlink3 0.8s ease-in-out infinite; }
+      .led4 { animation: ledBlink4 1.6s ease-in-out infinite; }
+      .core-outer { animation: pulseCircle 2s ease-in-out infinite; }
+      .core-inner { animation: corePulse 2s ease-in-out infinite; }
+      .txt { animation: textBlink 1.5s ease-in-out infinite; }
+    </style>
+
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#070b12"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#001f2e"/>
+      <stop offset="100%" stop-color="#000d1a"/>
+    </linearGradient>
+    <radialGradient id="eyeL" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f7ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00f7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="eyeR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f7ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00f7ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g class="robot-group">
+    <!-- Antenna -->
+    <line x1="100" y1="18" x2="100" y2="40" stroke="#00f7ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="100" y1="20" x2="84" y2="9" stroke="#00f7ff" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <line x1="100" y1="20" x2="116" y2="9" stroke="#00f7ff" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <circle class="antenna-tip" cx="100" cy="15" r="5.5"/>
+    <circle cx="83" cy="8" r="2.5" fill="#ff00ff" opacity="0.8"/>
+    <circle cx="117" cy="8" r="2.5" fill="#ff00ff" opacity="0.8"/>
+
+    <!-- HEAD -->
+    <rect x="44" y="40" width="112" height="80" rx="14" fill="url(#bodyGrad)" stroke="#00f7ff" stroke-width="1.5"/>
+    <rect x="49" y="45" width="102" height="70" rx="10" fill="none" stroke="#00f7ff" stroke-width="0.5" stroke-opacity="0.3"/>
+
+    <!-- Circuit traces on head -->
+    <line class="c1" x1="50" y1="62" x2="65" y2="62" stroke="#00f7ff" stroke-width="1"/>
+    <line class="c2" x1="135" y1="62" x2="150" y2="62" stroke="#00f7ff" stroke-width="1"/>
+    <line class="c3" x1="50" y1="100" x2="65" y2="100" stroke="#00f7ff" stroke-width="1"/>
+    <line class="c1" x1="135" y1="100" x2="150" y2="100" stroke="#00f7ff" stroke-width="1"/>
+
+    <!-- LEFT EYE -->
+    <ellipse cx="76" cy="72" rx="17" ry="13" fill="#001a20" stroke="#00f7ff" stroke-width="1.5"/>
+    <ellipse cx="76" cy="72" rx="11" ry="8.5" fill="url(#eyeL)"/>
+    <ellipse class="eye" cx="76" cy="72" rx="7" ry="5.5" fill="#00f7ff"/>
+    <ellipse cx="76" cy="72" rx="3.5" ry="2.8" fill="#001020"/>
+    <ellipse cx="73" cy="69" rx="1.5" ry="1.2" fill="white" opacity="0.9"/>
+
+    <!-- RIGHT EYE -->
+    <ellipse cx="124" cy="72" rx="17" ry="13" fill="#001a20" stroke="#00f7ff" stroke-width="1.5"/>
+    <ellipse cx="124" cy="72" rx="11" ry="8.5" fill="url(#eyeR)"/>
+    <ellipse class="eye" cx="124" cy="72" rx="7" ry="5.5" fill="#00f7ff"/>
+    <ellipse cx="124" cy="72" rx="3.5" ry="2.8" fill="#001020"/>
+    <ellipse cx="121" cy="69" rx="1.5" ry="1.2" fill="white" opacity="0.9"/>
+
+    <!-- MOUTH PANEL -->
+    <rect x="64" y="97" width="72" height="16" rx="4" fill="url(#screenGrad)" stroke="#00f7ff" stroke-width="1"/>
+    <text class="txt" x="100" y="109" text-anchor="middle" fill="#00f7ff" font-family="monospace" font-size="7">&gt; HELLO WORLD_</text>
+
+    <!-- EAR PANELS -->
+    <rect x="33" y="57" width="13" height="32" rx="4" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+    <rect x="154" y="57" width="13" height="32" rx="4" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+    <circle cx="39.5" cy="67" r="3.5" fill="#00f7ff" class="led2"/>
+    <circle cx="160.5" cy="67" r="3.5" fill="#ff00ff" class="led3"/>
+    <rect x="36" y="76" width="8" height="2" rx="1" fill="#00f7ff" opacity="0.5"/>
+    <rect x="156" y="76" width="8" height="2" rx="1" fill="#00f7ff" opacity="0.5"/>
+
+    <!-- NECK -->
+    <rect x="80" y="120" width="40" height="13" rx="4" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+    <rect x="86" y="123" width="10" height="7" rx="2" fill="#00f7ff" opacity="0.35"/>
+    <rect x="104" y="123" width="10" height="7" rx="2" fill="#ff00ff" opacity="0.35"/>
+
+    <!-- BODY -->
+    <rect x="36" y="133" width="128" height="88" rx="12" fill="url(#bodyGrad)" stroke="#00f7ff" stroke-width="1.5"/>
+    <rect x="42" y="139" width="116" height="76" rx="8" fill="none" stroke="#00f7ff" stroke-width="0.5" stroke-opacity="0.25"/>
+
+    <!-- CHEST PANEL -->
+    <rect x="56" y="145" width="88" height="54" rx="6" fill="url(#screenGrad)" stroke="#00f7ff" stroke-width="1"/>
+
+    <!-- Circuit on chest -->
+    <line class="c1" x1="60" y1="157" x2="76" y2="157" stroke="#00f7ff" stroke-width="0.8"/>
+    <line x1="76" y1="157" x2="76" y2="164" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+    <line class="c2" x1="76" y1="164" x2="90" y2="164" stroke="#00f7ff" stroke-width="0.8"/>
+    <line class="c3" x1="124" y1="157" x2="140" y2="157" stroke="#00f7ff" stroke-width="0.8"/>
+    <line x1="124" y1="157" x2="124" y2="164" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+
+    <!-- POWER CORE -->
+    <circle cx="100" cy="168" r="16" fill="#001a20" stroke="#00f7ff" stroke-width="1.5"/>
+    <circle class="core-outer" cx="100" cy="168" r="9" fill="#002530"/>
+    <circle class="core-inner" cx="100" cy="168" r="6" fill="#00f7ff"/>
+    <circle cx="100" cy="168" r="3" fill="white" opacity="0.95"/>
+
+    <!-- STATUS LEDs -->
+    <circle class="led1" cx="66" cy="188" r="4.5" fill="#00ff88"/>
+    <circle class="led2" cx="79" cy="188" r="4.5" fill="#00f7ff"/>
+    <circle class="led3" cx="121" cy="188" r="4.5" fill="#ff00ff"/>
+    <circle class="led4" cx="134" cy="188" r="4.5" fill="#ffaa00"/>
+
+    <!-- ARMS -->
+    <rect x="8" y="135" width="28" height="68" rx="8" fill="url(#bodyGrad)" stroke="#00f7ff" stroke-width="1.2"/>
+    <rect x="164" y="135" width="28" height="68" rx="8" fill="url(#bodyGrad)" stroke="#00f7ff" stroke-width="1.2"/>
+    <circle cx="22" cy="144" r="5" fill="#001a20" stroke="#00f7ff" stroke-width="1"/>
+    <circle cx="178" cy="144" r="5" fill="#001a20" stroke="#00f7ff" stroke-width="1"/>
+    <line x1="12" y1="163" x2="32" y2="163" stroke="#00f7ff" stroke-width="0.7" stroke-opacity="0.5"/>
+    <line x1="168" y1="163" x2="188" y2="163" stroke="#00f7ff" stroke-width="0.7" stroke-opacity="0.5"/>
+    <line x1="12" y1="173" x2="32" y2="173" stroke="#00f7ff" stroke-width="0.7" stroke-opacity="0.3"/>
+    <line x1="168" y1="173" x2="188" y2="173" stroke="#00f7ff" stroke-width="0.7" stroke-opacity="0.3"/>
+
+    <!-- HANDS -->
+    <rect x="10" y="201" width="26" height="14" rx="6" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+    <rect x="164" y="201" width="26" height="14" rx="6" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+
+    <!-- LEGS (feet) -->
+    <rect x="56" y="221" width="36" height="14" rx="6" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+    <rect x="108" y="221" width="36" height="14" rx="6" fill="#070b12" stroke="#00f7ff" stroke-width="1"/>
+  </g>
+</svg>
