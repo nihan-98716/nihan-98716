@@ -1,8 +1,72 @@
-# 💫 About Me:
-• Currently building skills in Python, Java, C, and Machine Learning.<br>• Exploring AI-powered applications, full-stack development, and data-driven projects.<br>• Interested in collaborating on open-source projects, web development, AI/ML tools, and innovative software solutions.<br>• Always eager to solve challenging problems and contribute to impactful projects.
+<h1 align="center">Hey, I'm Nihan 👋</h1>
+<h3 align="center">Engineering Student • Builder • IEEE Volunteer • Problem Solver</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nihan-anoop) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihananoop2020@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+impactful+tech;Exploring+AI+%26+Systems;Creating+real-world+solutions" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
+
+## 🚀 About Me
+
+- 🎓 Computer & Communications Engineering student  
+- ⚡ IEEE Volunteer & **Webmaster @ IEEE SB Amrita Chennai**  
+- ✍️ Content Development @ YESIST12 (IEngage Track)  
+- 🧠 Interested in **AI, Systems, IoT, and Real-World Engineering Problems**  
+- 🔬 Currently working on:
+  - DNA Sequence Pattern Mining (ML)
+  - ESP32-based Intrusion Detection System
+  - Data Science with NASA datasets  
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,nodejs,git,github,mysql,linux,vscode,arduino&perline=8" />
+
+</p>
+
+---
+
+## ⚙️ Skills & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-%2300C7B7.svg?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT%20Systems-%23FF0000.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihan-98716&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/nihan-98716"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “I don’t just build projects. I engineer systems that feel alive.”
+</p>
