@@ -59,14 +59,7 @@
  CPU      ▸ Overclocked brain™ + caffeine
  RAM      ▸ ████████░░  80%  (AI thoughts)
  Uptime   ▸ Never shutting down
- ─────────────────────────────────────────
- Groups   ▸ IEEE Core Cmt  |  Team Eidos ⚡
- Thesis   ▸ DNA Sequence Pattern Mining 🧬
- Interests▸ Space 🛸  Drones  Cyberpunk
- Signal   ▸ in/m-nihan-anoop  [LinkedIn]
- ─────────────────────────────────────────
- ██ #00D9FF  ██ #FF3CAC  ██ #FFD166
- ██ #7B2FFF  ██ #00FF88  ██ #3D6478
+
 ```
 
 </td>
