@@ -147,23 +147,6 @@ $ lsmod | grep embedded
 $ git log --oneline --all --author="nihan-98716" --projects
 ```
 
-<br/>
-
-<div align="center">
-
-| &nbsp; | `repo` | `stack` | `tldr` |
-|:---:|:---|:---|:---|
-| 🛡️ | **[AEGIS](https://github.com/nihan-98716/AEGIS-Adaptive-Enterprise-Graph-Intelligence-for-Security)** | `GraphSAGE` `SIR` `Monte Carlo` `Python` | Ransomware propagation on Barabási-Albert enterprise graphs + real-time anomaly detection |
-| 🤖 | **[BankBot](https://github.com/nihan-98716/Bankbot-AI_Chatbot_For_Banking_FAQs)** | `Python` `Ollama` `ChromaDB` `Streamlit` | Offline-first RAG banking agent — no cloud, no quota drama, strict guardrails |
-| 🌿 | **[CASIE AI](https://github.com/nihan-98716/casie-ai)** | `Next.js` `TypeScript` `OCR` `AI` | Carbon emissions auditor — ISO 14064 compliance + auto-report generation |
-| 🧠 | **[Cognitive Dijkstra](https://github.com/nihan-98716/Cognitive-Aware-Dijkstra-for-Indoor-Pathfinding)** | `Flask` `Three.js` `Claude API` | Indoor pathfinding with cognitive-load penalties + explainable AI panel |
-| 📡 | **[NodeFlux](https://github.com/nihan-98716/NodeFlux)** | `JavaScript` `Docker` `MySQL` | Real-time MySQL cluster monitor — auto-discovers containers in ~10s |
-| 💬 | **[Multi-RAG Chatbot](https://github.com/nihan-98716/Multi-Session-RAG-Chatbot-with-PostgreSQL-pgvector)** | `FastAPI` `pgvector` `HuggingFace` `Gemini` | Multi-session isolated RAG — local embeddings, zero cloud quota risk |
-
-</div>
-
-<br/><br/>
-
 <!-- ══════════════════ SYSTEM METRICS ══════════════════ -->
 
 <div align="center">
