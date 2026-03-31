@@ -1,218 +1,276 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   NIHAN ANOOP — GITHUB PROFILE README              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔═════════════════════════════════════════════════════════╗ -->
+<!--   NIHAN ANOOP  //  nihan-98716  //  OPERATOR PROFILE     -->
+<!-- ╚═════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:00293D,100:00F7FF&fontColor=00F7FF&animation=fadeIn&section=header" width="100%"/>
+<!-- ══════════════════ HEADER ══════════════════ -->
 
 <div align="center">
 
-<!-- Static Name — always visible -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=999999&pause=999999&color=00F7FF&center=true&vCenter=true&width=700&lines=NIHAN+ANOOP" alt="Nihan Anoop"/>
-
-<!-- Animated Typing — descriptors only, loops -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=778899&center=true&vCenter=true&width=700&lines=⚡+Systems+Engineer+%7C+AI+Hacker+%7C+IoT+Tinkerer;🧬+DNA+Pattern+Mining+%7C+Graph+Security+%7C+RAG;🛸+Drone+Enthusiast+%7C+Wasp+3+Fan+%7C+Space+Nerd;☕+input%3A+caffeine+→+output%3A+compiled+chaos;⚡+Team+Eidos+%7C+IEEE+Core+Committee+Candidate" alt="Typing SVG"/>
-
-<br/>
-
-<!-- Robot Avatar -->
-<img src="./robot.svg" width="180" alt="Nihan's Robot Avatar"/>
-
-<br/>
-
-<!-- Subtitle badge row -->
-<img src="https://img.shields.io/badge/%E2%9A%A1-Engineering%20Student-00F7FF?style=flat-square&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9B%B8-IEEE%20Member-FF00FF?style=flat-square&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80-Team%20EIDOS-00FF88?style=flat-square&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Chennai%2C%20IN-%F0%9F%8C%90-FFAA00?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=nihan-98716&color=00f7ff&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:060C18,50:08111F,100:060C18&fontColor=00D9FF&animation=scaleIn&text=NIHAN%20ANOOP&fontSize=66&fontAlignY=50&desc=%5B%20CS%20%2B%20CE%20ENGINEER%20%2F%2F%20AI%20%7C%20EMBEDDED%20%7C%20FULL%20STACK%20%5D&descColor=3D6478&descSize=14&descAlignY=72" width="100%"/>
 
 </div>
 
----
+<!-- Boot sequence typing -->
+<div align="center">
 
-<!-- About Me Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=00F7FF&width=320&lines=%5B+SYSTEM+BOOT+%3A%3A+ABOUT_ME+%5D" alt="About"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=640&lines=~%24+ssh+nihan-98716%40github.com;Connecting+to+operator+profile...;Authenticating+identity...+✓;Loading+system+modules...+✓;Access+granted.+Welcome+to+nihan%40sys+🤖" alt="Boot sequence"/>
 
-```python
-class NihanAnoop:
-    def __init__(self):
-        self.name        = "Nihan Anoop"
-        self.role        = "Computer & Communications Engineering Student"
-        self.location    = "Chennai, India 🌏"
-        self.fuel        = ["☕ Coffee", "🍕 Late nights", "🎵 Lo-fi beats"]
-        self.domains     = ["AI/ML", "Embedded Systems", "Full Stack", "Data Science"]
-        self.communities = ["IEEE Core Committee", "Team Eidos (Hackathons)"]
-        self.obsessions  = ["🚀 Space tech", "🚁 Drones", "🌌 Cyberpunk aesthetics"]
-        self.mantra      = "Build. Break. Learn. Repeat."
+</div>
 
-    def say_hi(self):
-        print("Hey! I build systems that are intelligent, scalable & real.")
-        print("Currently making machines smarter, one commit at a time 🤖")
+<br/>
 
-me = NihanAnoop()
-me.say_hi()
+<!-- Status badges -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00D9FF?style=flat-square&labelColor=060C18"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nihan-98716&style=flat-square&color=FF3CAC&label=PROFILE+HITS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-CHENNAI,_IN-3D6478?style=flat-square&labelColor=060C18"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CAFFEINE-CRITICAL-FFD166?style=flat-square&labelColor=060C18"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ NEOFETCH BLOCK ══════════════════ -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="top" width="220">
+
+<!-- Robot Avatar -->
+<img src="./robot.svg" width="200" alt="nihan@sys robot avatar"/>
+
+</td>
+<td valign="top" width="32">&nbsp;</td>
+<td valign="top">
+
+```
+ nihan@sys  ╔══════════════════════════════╗
+ ─────────  ║  OPERATOR FILE // CLASSIFIED ║
+            ╚══════════════════════════════╝
+ OS       ▸ CS + Communications Engineering
+ Kernel   ▸ v4.0 LTS  (still updating)
+ Host     ▸ Chennai, India  [UTC +05:30]
+ Shell    ▸ python3 / gcc / node / bash
+ Terminal ▸ VSCode + too many tabs
+ CPU      ▸ Overclocked brain™ + caffeine
+ RAM      ▸ ████████░░  80%  (AI thoughts)
+ Uptime   ▸ Never shutting down
+ ─────────────────────────────────────────
+ Groups   ▸ IEEE Core Cmt  |  Team Eidos ⚡
+ Thesis   ▸ DNA Sequence Pattern Mining 🧬
+ Interests▸ Space 🛸  Drones  Cyberpunk
+ Signal   ▸ in/m-nihan-anoop  [LinkedIn]
+ ─────────────────────────────────────────
+ ██ #00D9FF  ██ #FF3CAC  ██ #FFD166
+ ██ #7B2FFF  ██ #00FF88  ██ #3D6478
 ```
 
----
+</td>
+</tr>
+</table>
 
-<!-- Tech Stack Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=FF00FF&width=350&lines=%5B+CORE+MODULES+%3A%3A+TECH_STACK+%5D" alt="Tech Stack"/>
+<br/>
+
+<!-- ══════════════════ TECH ARSENAL ══════════════════ -->
 
 <div align="center">
 
-**⬡ Languages**
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=9999999&duration=9999999&color=FF3CAC&center=true&vCenter=true&width=500&lines=⟨%20TECH%20ARSENAL%20%2F%2F%20INSTALLED%20PACKAGES%20⟩" alt="Tech"/>
+
+<br/><br/>
+
+<!-- Languages -->
+```
+$ pkg list --installed --category=languages
+```
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash&theme=dark&perline=6"/>
 
 <br/>
 
-**⬡ Frontend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flask&theme=dark&perline=6"/>
-
-<br/>
-
-**⬡ Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,mysql,sqlite,docker&theme=dark&perline=6"/>
-
-<br/>
-
-**⬡ AI / ML / Embedded**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,arduino,raspberrypi,linux&theme=dark&perline=6"/>
-
-<br/>
-
-**⬡ Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark&perline=6"/>
-
-</div>
-
----
-
-<!-- Projects Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=00FF88&width=380&lines=%5B+MISSION+LOG+%3A%3A+PROJECTS+%5D" alt="Projects"/>
-
-<div align="center">
-
-| 🔐 **AEGIS** | 🌱 **CASIE AI** |
-|---|---|
-| Ransomware propagation sim on Barabási-Albert graphs. GraphSAGE anomaly detection + Monte Carlo + 6 adaptive defenses. | AI-powered carbon emissions auditor. OCR + document parsing, ISO 14064 compliance, audit report generation. |
-| `Python` `GraphSAGE` `SIR Dynamics` | `Next.js` `TypeScript` `AI/OCR` |
-
-| 🤖 **BankBot** | 🗺️ **Cognitive Dijkstra** |
-|---|---|
-| Local-first RAG banking agent. Offline inference via Ollama + ChromaDB vector retrieval. No cloud, no quota drama. | Indoor pathfinding with cognitive-load penalties (turns, stairs, junctions). 100-node 3D graph + XAI panel. |
-| `Python` `Streamlit` `Ollama` `RAG` | `Flask` `Three.js` `Claude API` |
-
-| 📡 **NodeFlux** | 🧬 **Multi-Session RAG** |
-|---|---|
-| Real-time MySQL cluster monitor. Auto-discovers Docker containers in ~10s, 1s-refresh metrics dashboard. | FastAPI RAG with PostgreSQL/pgvector. Multi-session isolation + local HuggingFace embeddings + Gemini. |
-| `JavaScript` `Docker` `MySQL` | `FastAPI` `pgvector` `HuggingFace` |
-
-</div>
-
----
-
-<!-- GitHub Stats Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=FFAA00&width=360&lines=%5B+DIAGNOSTICS+%3A%3A+GITHUB_STATS+%5D" alt="Stats"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&border_color=00F7FF&border_radius=10" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF&border_radius=10&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nihan-98716&theme=dark&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=888888&border=00F7FF&border_radius=10" height="165"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihan-98716&bg_color=0D1117&color=00F7FF&line=FF00FF&point=00FF88&area=true&area_color=00F7FF&hide_border=false&border_color=00F7FF&radius=6" width="95%"/>
-
-</div>
-
----
-
-<!-- Fun Facts / Terminal Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=00F7FF&width=380&lines=%5B+DEBUG+MODE+%3A%3A+FUN_FACTS+%5D" alt="Fun facts"/>
-
-```bash
-$ whoami --verbose
-
-  🤖  Nihan the Engineer
-  ☕  Coffee consumed today       : [ ██████████ ] ∞ cups
-  🧠  RAM usage                   : 99% (currently thinking about AI)
-  💾  Interests stored in cache   : Drones, Space, Cyberpunk, Robots
-  🌐  Currently building          : Something that'll break prod (productively)
-  🏆  Hackathon mode              : ACTIVE — Team Eidos ready to ship
-  📡  IEEE role                   : Core Committee incoming
-  🎯  Favorite bug                : The one that taught me the most
-
-$ cat /etc/skills.conf
-
-  [AI/ML]        RAG | Graph NNs | Anomaly Detection | Embeddings
-  [Embedded]     ESP32 | STM32 | Arduino | Real-time systems
-  [Web]          Full-stack | REST APIs | Real-time dashboards
-  [Data Science] Visualization | DNA Pattern Mining | Exoplanet data 🚀
-
-$ echo $LIFE_MOTTO
-"If it compiles on the first try, something is deeply wrong."
+<!-- Frontend / Frameworks -->
+```
+$ pkg list --installed --category=frameworks
 ```
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flask,fastapi&theme=dark&perline=7"/>
 
-<!-- Connect Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=1&pause=99999&color=FF00FF&width=380&lines=%5B+NETWORK+%3A%3A+FIND_ME+%5D" alt="Connect"/>
+<br/>
+
+<!-- Backend / DB / Infra -->
+```
+$ pkg list --installed --category=backend+infra
+```
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,docker,linux,git,github&theme=dark&perline=7"/>
+
+<br/>
+
+<!-- AI / ML -->
+```
+$ pip list --ai-stack
+```
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=000"/>
+<img src="https://img.shields.io/badge/Ollama-EEEEEE?style=flat-square&logoColor=000"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B2FFF?style=flat-square&logoColor=fff"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GraphSAGE-FF3CAC?style=flat-square&logoColor=fff"/>
+
+<br/>
+
+<!-- Embedded -->
+```
+$ lsmod | grep embedded
+```
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=fff"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=fff"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ══════════════════ ACTIVE DEPLOYMENTS ══════════════════ -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=9999999&duration=9999999&color=00D9FF&center=true&vCenter=true&width=500&lines=⟨%20ACTIVE%20DEPLOYMENTS%20%2F%2F%20git%20log%20--oneline%20⟩" alt="Projects"/>
+
+</div>
+
+<br/>
+
+```bash
+$ git log --oneline --all --author="nihan-98716" --projects
+```
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | `repo` | `stack` | `tldr` |
+|:---:|:---|:---|:---|
+| 🛡️ | **[AEGIS](https://github.com/nihan-98716/AEGIS-Adaptive-Enterprise-Graph-Intelligence-for-Security)** | `GraphSAGE` `SIR` `Monte Carlo` `Python` | Ransomware propagation on Barabási-Albert enterprise graphs + real-time anomaly detection |
+| 🤖 | **[BankBot](https://github.com/nihan-98716/Bankbot-AI_Chatbot_For_Banking_FAQs)** | `Python` `Ollama` `ChromaDB` `Streamlit` | Offline-first RAG banking agent — no cloud, no quota drama, strict guardrails |
+| 🌿 | **[CASIE AI](https://github.com/nihan-98716/casie-ai)** | `Next.js` `TypeScript` `OCR` `AI` | Carbon emissions auditor — ISO 14064 compliance + auto-report generation |
+| 🧠 | **[Cognitive Dijkstra](https://github.com/nihan-98716/Cognitive-Aware-Dijkstra-for-Indoor-Pathfinding)** | `Flask` `Three.js` `Claude API` | Indoor pathfinding with cognitive-load penalties + explainable AI panel |
+| 📡 | **[NodeFlux](https://github.com/nihan-98716/NodeFlux)** | `JavaScript` `Docker` `MySQL` | Real-time MySQL cluster monitor — auto-discovers containers in ~10s |
+| 💬 | **[Multi-RAG Chatbot](https://github.com/nihan-98716/Multi-Session-RAG-Chatbot-with-PostgreSQL-pgvector)** | `FastAPI` `pgvector` `HuggingFace` `Gemini` | Multi-session isolated RAG — local embeddings, zero cloud quota risk |
+
+</div>
+
+<br/><br/>
+
+<!-- ══════════════════ SYSTEM METRICS ══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=9999999&duration=9999999&color=FFD166&center=true&vCenter=true&width=500&lines=⟨%20SYSTEM%20METRICS%20%2F%2F%20htop%20--github%20⟩" alt="Stats"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&hide_border=true&bg_color=060C18&title_color=00D9FF&icon_color=FF3CAC&text_color=8FAABC&ring_color=00D9FF&card_width=440" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&hide_border=true&bg_color=060C18&title_color=00D9FF&text_color=8FAABC&langs_count=8&card_width=310" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nihan-98716&theme=transparent&hide_border=true&background=060C18&ring=00D9FF&fire=FF3CAC&currStreakLabel=00D9FF&sideLabels=3D6478&dates=4A6070&stroke=00D9FF&sideNums=8FAABC&currStreakNum=00D9FF" width="60%"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ══════════════════ CONTRIBUTION GRAPH ══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=9999999&duration=9999999&color=00FF88&center=true&vCenter=true&width=500&lines=⟨%20COMMIT%20ACTIVITY%20%2F%2F%20watch%20-n1%20git%20log%20⟩" alt="Activity"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihan-98716&bg_color=060C18&color=00D9FF&line=FF3CAC&point=00D9FF&area=true&area_color=00152A&hide_border=true&custom_title=nihan-98716%20%2F%2F%20contribution%20frequency" width="97%"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ══════════════════ TROPHY SHELF ══════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nihan-98716&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=10&title=Stars,Commit,Repositories,PullRequest" width="76%"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ RUNTIME LOGS ══════════════════ -->
+
+<br/>
+
+```bash
+$ cat /proc/nihan/runtime.log
+
+  [PROCESS]  UG Thesis       .............. DNA Sequence Pattern Mining w/ ML  🧬
+  [PROCESS]  Hackathons      .............. Team Eidos  ⚡  always shipping
+  [PROCESS]  IEEE Arc        .............. Core Committee incoming
+  [PROCESS]  Interests       .............. Space tech  /  Drones  /  Wasp 3  🛸
+  [QUEUE]    Currently       .............. building something that shouldn't work
+  [STATUS]   Debug mode      .............. permanently ON
+
+$ echo $MOTTO
+  "If it compiles on the first try — that's a threat."
+
+$ uptime
+  nihan@sys up ∞ days, caffeine: CRITICAL, commits: always, bugs: educational
+```
+
+<br/><br/>
+
+<!-- ══════════════════ CONNECT ══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=9999999&duration=9999999&color=FF3CAC&center=true&vCenter=true&width=500&lines=⟨%20FIND%20ME%20%2F%2F%20ping%20social.io%20⟩" alt="Connect"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/m-nihan-anoop/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nihan%20Anoop-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-m--nihan--anoop-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060C18"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/nihan-98716">
-  <img src="https://img.shields.io/badge/GitHub-nihan--98716-181717?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-nihan--98716-00D9FF?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=060C18&color=060C18"/>
 </a>
 
 <br/><br/>
 
-<!-- Snake game contribution grid -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihan-98716/nihan-98716/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihan-98716/nihan-98716/output/github-snake.svg"/>
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/output/github-snake-dark.svg"/>
-</picture>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:060C18,50:081422,100:00D9FF&section=footer&animation=fadeIn" width="100%"/>
+
+<sub><sup>built with ☕ caffeine + 🤖 curiosity + way too many browser tabs &nbsp;//&nbsp; nihan-98716</sup></sub>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=00F7FF&bg_color=0D1117&text_color=FFFFFF" width="80%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,60:00293D,100:0D1117&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--     Built with ☕ caffeine, 🤖 curiosity & way too many tabs open   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════╗ -->
+<!--   end of operator profile  //  nihan@sys ~$             -->
+<!-- ╚═══════════════════════════════════════════════════════╝ -->
