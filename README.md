@@ -6,8 +6,11 @@
 
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=NIHAN+ANOOP+%F0%9F%A4%96;SYSTEMS+ENGINEER;AI+%7C+IoT+%7C+FULLSTACK;CAFFEINE+FUELLED+%E2%98%95+PROGRAMMER" alt="Typing SVG"/>
+<!-- Static Name — always visible -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=999999&pause=999999&color=00F7FF&center=true&vCenter=true&width=700&lines=NIHAN+ANOOP" alt="Nihan Anoop"/>
+
+<!-- Animated Typing — descriptors only, loops -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=778899&center=true&vCenter=true&width=700&lines=⚡+Systems+Engineer+%7C+AI+Hacker+%7C+IoT+Tinkerer;🧬+DNA+Pattern+Mining+%7C+Graph+Security+%7C+RAG;🛸+Drone+Enthusiast+%7C+Wasp+3+Fan+%7C+Space+Nerd;☕+input%3A+caffeine+→+output%3A+compiled+chaos;⚡+Team+Eidos+%7C+IEEE+Core+Committee+Candidate" alt="Typing SVG"/>
 
 <br/>
 
