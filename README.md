@@ -1,63 +1,29 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║          OPERATOR DOSSIER — INITIATING UPLINK...                ║
-║          SIGNAL ACQUIRED ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 100%             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++++OPERATOR+DOSSIER+%E2%80%94+INITIATING+UPLINK...+++++++++++++++++++%E2%95%91;%E2%95%91++++SIGNAL+ACQUIRED+%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE+100%25+++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=600&lines=NIHAN+%2F%2F+SYSTEMS+ONLINE;caffeine+fuelled+programmer;ml+%7C+embedded+%7C+full+stack+%7C+space;building+things+that+matter" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=600&lines=NIHAN+%2F%2F+SYSTEMS+ONLINE;caffeine+fuelled+programmer;AI+%7C+ML+%7C+Deep+Learning+%7C+LLMs;Full+Stack+%7C+Data+Science+%7C+Security;always+compiling%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ```bash
-$ cat /etc/operator/profile.conf
-```
-
-```yaml
-handle       : Nihan
-affiliation  : Amrita School of Engineering, Chennai
-division     : Computer & Communications Engineering
-clearance    : IEEE Core Committee Candidate
-team         : EIDOS Hackathon Unit
-status       : ACTIVE — caffeine reserves nominal
-```
-
----
-
-```bash
-$ ls ~/domains/
+$ ls ~/stack/
 ```
 
 ```
-📡  machine_learning/       → TensorFlow · PyTorch · scikit-learn
-🧠  full_stack/             → React · Next.js · Flask · FastAPI · Node.js
-🔌  embedded_systems/       → ESP32 · STM32 · Arduino
-🛸  data_science/           → EDA · Visualization · Exoplanet archives
-🔐  security/               → GraphSAGE · AEGIS · attack detection
-🗄️  databases/              → MySQL · PostgreSQL · pgvector
-🐳  infra/                  → Docker · REST APIs
+🧠  ml_and_ai/            → TensorFlow · PyTorch · scikit-learn · HuggingFace
+📊  data_science/         → Pandas · NumPy · Matplotlib · Seaborn
+🔗  llm_and_rag/          → LangChain · pgvector · Ollama · RAG pipelines
+🌐  full_stack/           → React · Next.js · Flask · FastAPI · Node.js
+🔐  security_and_graphs/  → GraphSAGE · GNNs · anomaly detection
+🗄️  databases/            → MySQL · PostgreSQL · pgvector
+🐳  infra/                → Docker · REST APIs · Git
+⚙️  languages/            → Python · C · C++ · JavaScript · TypeScript
 ```
-
----
-
-```bash
-$ cat ~/projects/active.log
-```
-
-| PROJECT | STACK | STATUS |
-|--------|-------|--------|
-| `AEGIS` — graph-based security intrusion detection | GraphSAGE · Python | 🟢 ACTIVE |
-| `BankBot` — offline RAG chatbot | FastAPI · pgvector | 🟢 ACTIVE |
-| `CASIE AI` — carbon emissions auditor | Python · ML | 🟡 IN PROGRESS |
-| `NodeFlux` — MySQL cluster monitor | Node.js · MySQL | 🟡 IN PROGRESS |
-| `DNA Sequence Pattern Mining` — UG Thesis | ML · Bioinformatics | 🔵 RESEARCH |
-| `Fake News Detector` — ML pipeline + cyberpunk UI | PyTorch · Flask | 🟡 IN PROGRESS |
-| `ESP32 Attack Detector` — hardware IDS | ESP32 · C | 🔧 DEBUGGING |
-| `Multi-Session RAG Chatbot` | FastAPI · pgvector · LLM | 🟢 ACTIVE |
 
 ---
 
@@ -66,56 +32,32 @@ $ cat ~/stack/languages.list
 ```
 
 ```
-██████████ Python          ████████░░ JavaScript / TypeScript
-█████████░ C               ████████░░ React / Next.js
-███████░░░ C++             ██████░░░░ SQL (MySQL · PostgreSQL)
+██████████  Python             ████████░░  JavaScript / TypeScript
+█████████░  C                  ████████░░  React / Next.js
+███████░░░  C++                ██████░░░░  SQL (MySQL · PostgreSQL)
 ```
 
 ---
 
 ```bash
-$ tail -n 5 ~/interests/obsessions.log
-```
-
-```
-[SYS] :: space technology       — low earth orbit, satellite systems
-[SYS] :: drone tech             — Wasp 3 & autonomous UAV platforms
-[SYS] :: cyberpunk aesthetics   — neon, noir, retrofuturism
-[SYS] :: graph neural networks  — GraphSAGE, security applications
-[SYS] :: embedded hardware      — turning code into physical systems
-```
-
----
-
-```bash
-$ ping github.com --resolve-identity
+$ ping operator --resolve-identity
 ```
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFD1)](https://www.linkedin.com/in/m-nihan-anoop/)
+[![Mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFD1)](mailto:nihananoop2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFD1)](https://linkedin.com)
-[![IEEE](https://img.shields.io/badge/IEEE-000000?style=for-the-badge&logo=ieee&logoColor=00FFD1)](https://ieee.org)
 
 </div>
 
 ---
 
-```bash
-$ uptime && whoami
-```
-
-```
-caffeine_fuelled_programmer — always compiling, always shipping
-```
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   END OF DOSSIER — CONNECTION SECURE — STAY CURIOUS, OPERATOR   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++++END+OF+DOSSIER+%E2%80%94+CONNECTION+SECURE+%E2%80%94+STAY+SHARP%2C+OPERATOR++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Footer" />
+
+<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nihan.profile&left_color=black&right_color=00ffd1&left_text=SIGNALS%20RECEIVED)
 
