@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER - NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=52&duration=1&pause=999999&color=00F5C4&center=true&vCenter=true&width=600&height=100&lines=NIHAN" alt="NIHAN"/>
 
 <!-- SUBTITLE TYPEWRITER -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Junior+Year+%7C+Computer+%26+Communications+Engineering;AI+%7C+ML+%7C+Computer+Vision+%7C+Embedded+Systems;Building+intelligent+systems+from+silicon+to+software" alt="Typing subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&height=30&lines=Junior+Year+%7C+Computer+%26+Communications+Engineering;AI+%7C+ML+%7C+Computer+Vision+%7C+Graph+Networks;Turning+data+into+decisions%2C+models+into+products" alt="Typing subtitle"/>
 
 <br/>
 
@@ -12,16 +12,6 @@
 ![](https://img.shields.io/badge/Focus-AI_%7C_ML_%7C_Computer_Vision-0d1117?style=flat-square&labelColor=7b61ff&color=0d1117)
 ![](https://img.shields.io/badge/IEEE-Core_Committee-0d1117?style=flat-square&labelColor=00c8f5&color=0d1117)
 ![](https://img.shields.io/badge/Team-Eidos_Hackathon-0d1117?style=flat-square&labelColor=ff6b6b&color=0d1117)
-
-<br/>
-
-```
-▸ B.Tech · Computer & Communications Engineering · Amrita School of Engineering, Chennai
-▸ Interests  →  AI · ML · Computer Vision · Embedded Systems · Graph Networks
-▸ Building   →  RAG Chatbots · Security Graphs · CV Pipelines · IoT Systems
-▸ Stack      →  Python · C/C++ · TypeScript · PyTorch · TensorFlow · FastAPI · ESP32
-▸ Currently  →  Hackathon team Eidos  |  IEEE Core Committee Candidate
-```
 
 </div>
 
@@ -35,9 +25,9 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=transparent&hide_border=true&title_color=00f5c4&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nihan-98716)
+<img src="https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=transparent&hide_border=true&title_color=00f5c4&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=transparent&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nihan-98716)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=transparent&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
 </div>
 
