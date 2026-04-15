@@ -18,18 +18,21 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nihan-98716&theme=transparent&hide_border=true&ring=00f5c4&fire=7b61ff&currStreakLabel=00f5c4&sideLabels=c9d1d9&dates=555&currStreakNum=00f5c4&sideNums=7b61ff&background=0d1117" alt="GitHub Streak" height="160"/>
+<img 
+  src="https://streak-stats.demolab.com?user=nihan-98716&theme=transparent&hide_border=true&ring=00f5c4&fire=7b61ff&currStreakLabel=00f5c4&sideLabels=c9d1d9&dates=555&currStreakNum=00f5c4&sideNums=7b61ff&background=0d1117" 
+  height="170"
+/>
 
-&nbsp;
-
-<div align="center">
+<br/><br/>
 
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" 
-  width="420"
-  style="margin-left: 20px;"/>
+  width="450"
+/>
 
 </div>
+
+---
 
 ---
 
