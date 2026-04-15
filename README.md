@@ -1,85 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=52&duration=1&pause=999999&color=00F5C4&center=true&vCenter=true&width=600&height=100&lines=NIHAN" alt="NIHAN"/>
 
-<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00f5c4;stop-opacity:1">
-        <animate attributeName="stop-color" values="#00f5c4;#7b61ff;#00f5c4" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#7b61ff;stop-opacity:1">
-        <animate attributeName="stop-color" values="#7b61ff;#00f5c4;#7b61ff" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
-      .name-text {
-        font-family: 'Share Tech Mono', 'Courier New', monospace;
-        font-size: 52px;
-        font-weight: bold;
-        fill: url(#nameGrad);
-        filter: url(#glow);
-        opacity: 0;
-        animation: fadeIn 1s ease forwards 0.3s;
-      }
-      .cursor {
-        fill: #00f5c4;
-        animation: blink 0.9s step-end infinite;
-      }
-      .scanline {
-        fill: none;
-        stroke: #00f5c4;
-        stroke-width: 0.5;
-        opacity: 0.15;
-      }
-      @keyframes fadeIn {
-        to { opacity: 1; }
-      }
-      @keyframes blink {
-        50% { opacity: 0; }
-      }
-    </style>
-  </defs>
-
-  <!-- Scanlines for CRT feel -->
-  <line class="scanline" x1="0" y1="20" x2="800" y2="20"/>
-  <line class="scanline" x1="0" y1="40" x2="800" y2="40"/>
-  <line class="scanline" x1="0" y1="60" x2="800" y2="60"/>
-  <line class="scanline" x1="0" y1="80" x2="800" y2="80"/>
-  <line class="scanline" x1="0" y1="100" x2="800" y2="100"/>
-
-  <!-- Corner brackets -->
-  <path d="M10,10 L10,30 M10,10 L30,10" stroke="#00f5c4" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M790,10 L790,30 M790,10 L770,10" stroke="#00f5c4" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M10,110 L10,90 M10,110 L30,110" stroke="#00f5c4" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M790,110 L790,90 M790,110 L770,110" stroke="#00f5c4" stroke-width="2" fill="none" opacity="0.6"/>
-
-  <!-- Name text -->
-  <text x="400" y="75" text-anchor="middle" class="name-text">NIHAN</text>
-
-  <!-- Blinking cursor -->
-  <rect x="582" y="40" width="3" height="42" class="cursor"/>
-</svg>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH INTRO BADGE ROW                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SUBTITLE TYPEWRITER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Junior+Year+%7C+Computer+%26+Communications+Engineering;AI+%7C+ML+%7C+Computer+Vision+%7C+Embedded+Systems;Building+intelligent+systems+from+silicon+to+software" alt="Typing subtitle"/>
 
 <br/>
 
-![](https://img.shields.io/badge/Junior%20Year-Computer%20%26%20Communications%20Eng-0d1117?style=flat-square&labelColor=00f5c4&color=0d1117&logoColor=white)
-![](https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Computer%20Vision-0d1117?style=flat-square&labelColor=7b61ff&color=0d1117)
-![](https://img.shields.io/badge/IEEE-Core%20Committee-0d1117?style=flat-square&labelColor=00c8f5&color=0d1117)
+![](https://img.shields.io/badge/B.Tech-Computer_%26_Communications_Eng-0d1117?style=flat-square&labelColor=00f5c4&color=0d1117)
+![](https://img.shields.io/badge/Focus-AI_%7C_ML_%7C_Computer_Vision-0d1117?style=flat-square&labelColor=7b61ff&color=0d1117)
+![](https://img.shields.io/badge/IEEE-Core_Committee-0d1117?style=flat-square&labelColor=00c8f5&color=0d1117)
+![](https://img.shields.io/badge/Team-Eidos_Hackathon-0d1117?style=flat-square&labelColor=ff6b6b&color=0d1117)
 
 <br/>
 
@@ -88,16 +20,12 @@
 ▸ Interests  →  AI · ML · Computer Vision · Embedded Systems · Graph Networks
 ▸ Building   →  RAG Chatbots · Security Graphs · CV Pipelines · IoT Systems
 ▸ Stack      →  Python · C/C++ · TypeScript · PyTorch · TensorFlow · FastAPI · ESP32
-▸ Currently  →  Hackathon team Eidos  |  IEEE Core Committee
+▸ Currently  →  Hackathon team Eidos  |  IEEE Core Committee Candidate
 ```
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               GITHUB CONTRIBUTION GRAPH                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -107,17 +35,13 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=transparent&hide_border=true&title_color=00f5c4&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihan-98716&show_icons=true&theme=transparent&hide_border=true&title_color=00f5c4&icon_color=7b61ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nihan-98716)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=transparent&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&theme=transparent&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nihan-98716)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     PROJECT INDEX                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -128,7 +52,7 @@
 <br/>
 
 | # | Project | Description | Stack |
-|---|---------|-------------|-------|
+|:-:|---------|-------------|-------|
 | `01` | [**NodeFlux**](https://github.com/nihan-98716/NodeFlux) | Real-time MySQL cluster monitoring and management dashboard | `Python` `MySQL` `Dashboard` |
 | `02` | [**AEGIS — Adaptive Enterprise Graph Intelligence for Security**](https://github.com/nihan-98716/AEGIS-Adaptive-Enterprise-Graph-Intelligence-for-Security) | Graph-based enterprise security system leveraging GraphSAGE for threat detection | `Python` `GraphSAGE` `GNN` `Security` |
 | `03` | [**Cognitive-Aware Dijkstra for Indoor Pathfinding**](https://github.com/nihan-98716/Cognitive-Aware-Dijkstra-for-Indoor-Pathfinding) | Enhanced pathfinding algorithm with cognitive load awareness + XAI panel via Claude API | `Python` `Flask` `Three.js` `Algorithms` |
@@ -141,9 +65,5 @@
 ---
 
 <div align="center">
-
-<sub>
-<code>// built with caffeine and compiler errors</code>
-</sub>
-
+<sub><code>// built with caffeine and compiler errors</code></sub>
 </div>
