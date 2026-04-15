@@ -34,8 +34,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ### `[ PROJECT INDEX ]`
