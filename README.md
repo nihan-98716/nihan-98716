@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=1&pause=999999&color=00F5C4&center=true&vCenter=true&width=600&height=110&lines=NIHAN" alt="NIHAN" />
 
 <!-- ░░ ROTATING SUBTITLE ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=15&duration=2800&pause=900&color=7B61FF&center=true&vCenter=true&width=720&height=32&lines=Junior+Year+%E2%80%94+Computer+%26+Communications+Engineering;AI+%C2%B7+ML+%C2%B7+Computer+Vision+%C2%B7+Graph+Networks;Turning+data+into+decisions%2C+models+into+products;FastAPI+%C2%B7+PyTorch+%C2%B7+PostgreSQL+%C2%B7+TypeScript+%C2%B7+ESP32" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=15&duration=2800&pause=900&color=7B61FF&center=true&vCenter=true&width=720&height=32&lines=Junior+Year+%E2%80%94+Computer+%26+Communications+Engineering;AI+%C2%B7+ML+%C2%B7+Computer+Vision;Turning+data+into+decisions%2C+models+into+products;FastAPI+%C2%B7+PyTorch+%C2%B7+PostgreSQL+%C2%B7+TypeScript+%C2%B7+ESP32" alt="subtitle" />
 
 </div>
 
