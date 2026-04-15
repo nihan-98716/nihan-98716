@@ -22,13 +22,12 @@
 
 &nbsp;
 
-<br/>
-
 <div align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" 
-    height="220"
-  />
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihan-98716&layout=compact&hide_border=true&title_color=00f5c4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" 
+  width="420"/>
+
 </div>
 
 ---
