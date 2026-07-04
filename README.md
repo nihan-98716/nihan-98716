@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3500&pause=100000&color=FF2A6D&background=0D021100&center=true&vCenter=true&width=520&height=80&lines=Nihan+Anoop" alt="Nihan Anoop" />
+<img src="https://readme-typing-svg.demolab.com?font=Iceland&weight=700&size=42&duration=3500&pause=100000&color=FF2A6D&center=true&vCenter=true&width=520&height=80&lines=Nihan+Anoop" alt="Nihan Anoop" />
 
 </div>
 
@@ -33,8 +33,8 @@ location: India
 **AI / ML / Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas&theme=dark"/>
-<img src="https://img.shields.io/badge/-%20-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
-<img src="https://img.shields.io/badge/-%20-1C3C3C?style=for-the-badge&logo=langchain&logoColor=05D9E8" height="48"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=05D9E8"/>
 
 **Backend & APIs**
 <br/>
@@ -96,20 +96,12 @@ location: India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nihan-98716&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&title=Contributor,PullRequest,Commit,Followers,Repositories,Stars"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
-
 <div align="center">
 
 ### 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-nihananoop2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihananoop2020@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihan--anoop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihan-anoop/)
+[![Email](https://img.shields.io/badge/Email-nihananoop2020@gmail.com-FF2A6D?style=for-the-badge&logo=gmail&logoColor=E0E6FF)](mailto:nihananoop2020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihan--anoop-05D9E8?style=for-the-badge&logo=linkedin&logoColor=0D0221)](https://www.linkedin.com/in/nihan-anoop/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1A0933,100:0D0221&height=100&section=footer" width="100%"/>
 
