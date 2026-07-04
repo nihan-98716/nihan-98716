@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=100000&color=00F5C4&center=true&vCenter=true&width=500&height=80&lines=Nihan+Anoop" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3500&pause=100000&color=FF2A6D&background=0D021100&center=true&vCenter=true&width=520&height=80&lines=Nihan+Anoop" alt="Nihan Anoop" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
 ## `whoami`
 
@@ -20,7 +20,7 @@ status: 🎯 open to projects & internship opportunities
 location: India
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -32,12 +32,9 @@ location: India
 
 **AI / ML / Data**
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas&theme=dark"/>
+<img src="https://img.shields.io/badge/-%20-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/-%20-1C3C3C?style=for-the-badge&logo=langchain&logoColor=05D9E8" height="48"/>
 
 **Backend & APIs**
 <br/>
@@ -53,15 +50,15 @@ location: India
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=nihan-98716&show_icons=true&hide=stars&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5C4&icon_color=00F5C4&text_color=c9d1d9" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nihan-98716&show_icons=true&hide=stars,issues&show=prs_merged_percentage,contributed_to&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&bg_color=0D0221&title_color=FF2A6D&icon_color=05D9E8&text_color=E0E6FF" height="185"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihan-98716&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5C4&line=00F5C4&point=c9d1d9" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihan-98716&hide_border=true&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=E0E6FF&area=true&area_color=B537F2" width="95%"/>
 
 </div>
 
@@ -97,15 +94,15 @@ location: India
 <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nihan-98716&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&title=Contributor,PullRequest,Commit,Followers,Repositories,Stars"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nihan-98716&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&title=Contributor,PullRequest,Commit,Followers,Repositories,Stars"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
@@ -114,6 +111,6 @@ location: India
 [![Email](https://img.shields.io/badge/Email-nihananoop2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihananoop2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nihan--anoop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihan-anoop/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1A0933,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
