@@ -11,7 +11,9 @@
 ```yaml
 academics: junior yr in computer and communications engineering
 interest: i love building crazy things, overcomplicating them and going down a rabbit hole of stuff I didn't even need to know
-hobby: i love mixing software with hardware and cyber domains (don't understand cyber much, but i try my best), currently working on a dual cortex-m series security architecture, (oh and i also read, like a LOT)
+hobby: * i love mixing software with hardware and cyber domains (don't understand cyber much, but i try my best)
+       * currently working on a dual cortex-m series security architecture
+       * (oh and i also read, like a LOT)
 core:
   - Backend Dev
   - AI/ML Builder and Researcher
