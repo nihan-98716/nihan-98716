@@ -9,15 +9,14 @@
 ## <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/whoami.png" height="26"/>
 
 ```yaml
-name: Nihan Anoop
-role: Graduate Student · AI/ML Researcher
-focus:
-  - Natural Language Processing × Econometrics
-  - Edge-Optimized Computer Vision
+academics: junior yr in computer and communications engineering
+interest: i love building crazy things, overcomplicating them and going down a rabbit hole of stuff I didn't even need to know
+hobby: i love mixing software with hardware and cyber domains (don't understand cyber much, but i try my best), currently working on a dual cortex-m series security architecture, (oh and i also read, like a LOT)
+core:
+  - Backend Dev
+  - AI/ML Builder and Researcher
   - Full-Stack Systems for Research & Production Tooling
-org_role: IEEE Student Branch — ExeCom
-status: 🎯 open to projects & internship opportunities
-location: India
+status: Open to projects & internship opportunities
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
