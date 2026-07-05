@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iceland&weight=700&size=42&duration=3500&pause=100000&color=FF2A6D&center=true&vCenter=true&width=520&height=80&lines=Nihan+Anoop" alt="Nihan Anoop" />
+<img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/header.svg" width="520"/>
 
 </div>
 
