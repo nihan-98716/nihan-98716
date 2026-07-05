@@ -22,7 +22,7 @@ location: India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
-## 🛠️ <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/tech_stack.png" height="26"/>
+## <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/tech_stack.png" height="26"/>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ location: India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2A6D,50:B537F2,100:05D9E8&height=3&width=100%" width="100%"/>
 
-## 📊 <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/github_analytics.png" height="26"/>
+## <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/github_analytics.png" height="26"/>
 
 <div align="center">
 
@@ -108,7 +108,7 @@ location: India
 
 <div align="center">
 
-### 📬 <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/connect.png" height="20"/>
+### <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/connect.png" height="20"/>
 
 [![Email](https://img.shields.io/badge/Email-nihananoop2020@gmail.com-FF2A6D?style=for-the-badge&logo=gmail&logoColor=E0E6FF)](mailto:nihananoop2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nihan--anoop-05D9E8?style=for-the-badge&logo=linkedin&logoColor=0D0221)](https://www.linkedin.com/in/nihan-anoop/)
