@@ -12,7 +12,7 @@
 academics: junior yr in computer and communications engineering
 interest: i love building crazy things that no one even asked for. at 3 am.
 hobby: - i love mixing software with hardware and cyber domains (don't understand cyber much, but i try my best)
-       - currently working on a dual cortex-m series security architecture
+       - currently working on an adaptive dual cortex-m series security architecture
        - (oh and i also read, like a LOT)
 core:
   - Backend Dev
