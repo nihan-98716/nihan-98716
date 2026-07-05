@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/header.svg" width="520"/>
+<img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/header.png" width="500"/>
 
 </div>
 
