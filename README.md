@@ -36,6 +36,7 @@ location: India
 <img src="https://raw.githubusercontent.com/nihan-98716/nihan-98716/main/assets/headings/ai_ml_data.png" height="20"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas&theme=dark"/>
+<br/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=05D9E8"/>
 </p>
